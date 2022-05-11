@@ -3,7 +3,7 @@ name: Simple Job
 on:
   push:
     branches:
-      - master
+      - gh-actions 
 
 jobs:
   Hello:
