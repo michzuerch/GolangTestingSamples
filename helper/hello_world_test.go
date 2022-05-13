@@ -48,8 +48,8 @@ func TestTableHelloWorld(t *testing.T) {
 			expected: "Hello Nico",
 		},
 		{
-			name:     "Bad",
-			request:  "Evil",
+			name:     "Uwe",
+			request:  "Uwe",
 			expected: "Hello Uwe",
 		},
 	}
